@@ -1,0 +1,241 @@
+body
+{
+	 background-image:url("C:\xampp\htdocs\23ucsa204\backimg.png");
+	 background-repeat:no-repeat;
+	 background-size:cover;
+}
+h2
+{
+	font-family:sans-serif;
+	color:lightblue;
+	text-align:center;
+}
+a
+{
+	font-family:sans-serif;
+	color:white;
+	font-weight:bold;
+	font-size:18px;
+	padding:10px 25px;
+	border-radius:5px;
+	text-transform:uppercase;
+	align-items:center;
+	margin-left:15px;
+}
+#logo
+{
+	position:absolute;
+	top:10px;
+	left:10px;
+	height:80px;
+	width:auto;
+}
+#homeimg
+{	position:relative;
+	height:200px;
+	width:auto;
+	border-radius:70px;
+	margin-top:100px;
+	margin-left:150px;
+}
+.maincontent 
+{
+    font-weight:bold;
+	font-family:sans-serif;
+	color:white;
+	font-size:16px;
+	line-height:1.6;
+	margin-top:40px;
+	text-shadow:3px 3px 5px rgba(0,0,0.2);
+	transform:translateY(-250px);
+	text-align:center;
+	margin-right:70px;
+	margin-left:390px;
+}
+
+h4
+{
+	text-align:center;
+	font-weight:bold;
+	font-family:sans-serif;
+	color:rgb(255,180,95);
+}
+label
+{
+	font-family:sans-serif;
+    color:white;
+	font-size:25px;
+}
+#form
+{
+	margin-left:40px;
+}
+#heading
+{
+	color:brown;
+}
+p
+{
+	font-weight:bold;
+	font-family:sans-serif;
+	color:white;
+	font-size:20px;
+	line-height:1.6;
+	margin-left:180px;
+}	
+#tip1
+{
+	height:auto;
+	width:300px;
+	float:right;
+	position:relative;
+	top:-270px
+}
+#tip2
+{
+	height:auto;
+	width:300px;
+	float:right;
+	position:relative;
+	top:-270px
+}
+#tip3
+{
+	height:auto;
+	width:300px;
+	float:right;
+	position:relative;
+	top:-270px
+}
+#tip4
+{
+	height:auto;
+	width:300px;
+	float:right;
+	position:relative;
+	top:-270px
+}
+#tab
+{
+	background-color:#008F8F;
+}
+form
+{
+	padding-right:50px;
+}
+#mediform
+{
+  
+	font-family:sans-serif;
+    color:white;
+	font-size:6px;
+	font-weight:bold;
+}
+button
+{
+	font-family:sans-serif;
+}
+h4
+{
+	color:yellow;
+}
+#symchk
+{
+	text-align:center;
+	margin:50px;
+	color:brown;
+}
+#heart
+{
+	text-align:center;
+	margin:50px;
+	color:white;
+	font-weight:bold;
+
+}
+#cancer
+{
+	text-align:center;
+	margin:50px;
+	color:white;
+	font-weight:bold;
+}
+#hiv
+{
+	text-align:center;
+	margin:50px;
+	color:white;
+	font-weight:bold;
+}
+#feed
+{
+	font-family:sans-serif;
+	color:lightblue;
+	text-align:left;
+	margin-left:180px;
+}
+#feedpic
+{
+	height:auto;
+	width:300px;
+	float:right;
+	position:relative;
+	top:-270px
+}
+#fd
+{
+    font-family:sans-serif;
+	color:brown;
+	text-align:left;
+	margin-left:180px;
+}
+textarea
+{
+	margin-left:180px;
+}
+#abt
+{
+	font-family:sans-serif;
+	color:lightblue;
+	text-align:left;
+	margin-left:180px;
+}
+#abtus
+{
+	font-family:sans-serif;
+	color:lightblue;
+	text-align:left;
+	margin-left:180px;
+}
+#cnt
+{
+	font-family:sans-serif;
+	color:lightblue;
+	text-align:left;
+	margin-left:180px;
+}
+#cntus
+{
+	font-family:sans-serif;
+	color:brown;
+	text-align:left;
+	margin-left:180px;
+}
+#follow
+{
+	margin-left:300px;
+    color:darkred;
+}
+#add
+{
+	color:brown;
+}
+#foot
+{
+    color:brown;
+}
+#sbutton
+{
+	margin-left:300px;
+	padding:5px;
+}
